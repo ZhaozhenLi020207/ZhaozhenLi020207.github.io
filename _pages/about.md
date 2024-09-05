@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Beihang University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhaozhen_Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](18800102071@126.com) / [Github](https://github.com/ZhaozhenLi020207) / [Wechat](../images/wechat.jpg) 
 
