@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a first year graduate student from [School of Mechanical Engineering and Automation](http://www.me.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interests include robotics, machine learning, image processing
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Beihang University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Wang]([https://www.XXX.com/](http://www.me.buaa.edu.cn/info/1072/1897.htm)) of 709 Lab from [School of Mechanical Engineering and Automation](http://www.me.buaa.edu.cn/), Beihang University.
 
 You can find my CV here: [Zhaozhen_Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
