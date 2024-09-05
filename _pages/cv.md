@@ -23,13 +23,13 @@ Skills
   * openCV、yolov5
   * so on
 * Microsoft365
-'''
+<!-- '''
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-'''
+''' -->
   
 
   
