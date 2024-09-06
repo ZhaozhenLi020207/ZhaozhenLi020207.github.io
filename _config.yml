@@ -22,11 +22,11 @@ author:
   # Biographic information
   avatar           : "Zhaozhen_Li.png"
   name             : "Zhaozhen Li"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Welcome to my Personal Homepage!!!"
   location         : "Beijing"
   employer         : "Beihang University"
-  uri              : # URL
+  uri              :  http://www.me.buaa.edu.cn/
   email            : "18800102071@126.com" 
 
   # Repositories and software development
@@ -56,7 +56,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : https://www.youtube.com/@zhaozhenli-h8q
+  youtube          : https://www.youtube.com/@zhaozhenli
   zhihu            : https://www.zhihu.com/people/lan-ju-24-87
 
 # Publication Category - The following the list of publication categories and their headings
