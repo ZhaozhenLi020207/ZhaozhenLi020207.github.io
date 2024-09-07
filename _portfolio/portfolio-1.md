@@ -1,9 +1,7 @@
 ---
 title: "oil robot"
 excerpt: "oil robot 1<br/><img src='../images/oil_robot1.png'>"
-excerpt: "oil robot 2<br/><img src='../images/oil_robot2.png'>"
-excerpt: "oil robot 3<br/><img src='../images/oil_robot3.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The mechanical components of the refueling/charging robot in this project can be broadly classified into three main categories: the tracked mobile chassis, the main and auxiliary robotic arms, and the tool placement table. These components are mounted on the chassis and are illustrated in the [figure1](../images/oil_robot2.png) and [figure2](../images/oil_robot3.png).
